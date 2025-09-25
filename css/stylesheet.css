@@ -1,10 +1,10 @@
 .body {
-  text-align: center;
-  font-size: 18px;
-}
-.title {
   font-family: courier;
   text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+}
+.title {
   padding: 2%;
 }
 .logo {
